@@ -5,7 +5,7 @@ const Navbar = () => {
     <>
       <nav className="navbar navbar-expand-lg navbar-dark bg-primary">
         <a className="navbar-brand font-weight-bold" href="#">
-          AntStack 
+          Mohammed Imran
         </a>
         <button
           className="navbar-toggler"
